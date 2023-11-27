@@ -59,11 +59,8 @@ Contributions to the app's codebase are welcome. Follow the guidelines provided 
 Report any issues or bugs encountered while using the app.
 
 ## Contact
-### Developer's GitHub Profile
-[Link to GitHub Profile](#)
-
 ### Developer's LinkedIn Profile
-[Link to LinkedIn Profile](#)
+[Link to LinkedIn Profile](https://www.linkedin.com/in/likheet/)
 
 ### Support or Feedback
 Reach out to the developer for support or to provide feedback about the app.
